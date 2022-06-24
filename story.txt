@@ -1,1 +1,3 @@
 this is basic text file.
+User 1 has edited the file.
+Please merge the changes.
